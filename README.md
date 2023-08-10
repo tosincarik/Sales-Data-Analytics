@@ -1,2 +1,3 @@
-# Tee-Data-Portfolio
-Power BI Data Analysis by Tee
+# Company 'X' Sportwears Product Performance and Analysis
+## Introduction
+Power BI Data Analysis

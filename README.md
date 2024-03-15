@@ -43,7 +43,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 ---
 
 ## Sales Summary
-![](Summary.PNG)
+![](Summary2.PNG)
 ### Features
 - The sales summary page captures the overview performance of the products this showed an increase in sales performance of the present year compared to the previous year
 - With £356.56M revenue comapred to £288.66M , there was a profit of £152.70 in the current year

@@ -49,7 +49,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 - With £356.56M revenue comapred to £288.66M , there was a profit of £152.70 in the current year
 - Income group says persons with medium class income bought more products and contributed more in terms of revenue
 - Bikes Category outperformed other categories
-- The Top 10 Employees who generated highest revenue are shown
+
 
 ## Customer Insights
 ![](Customer.PNG)

@@ -52,7 +52,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 
 
 ## Customer Insights
-![](Customer.PNG)
+![](Customer2.PNG)
 ### Features
 - Revenue generated from married customers was higher than single status customers
 - Homeowners contribued more to revenue than those withiut homes

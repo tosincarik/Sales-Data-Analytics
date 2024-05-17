@@ -78,7 +78,7 @@ This feature works by connecting selected KPIs with power apps connectors.
 
 ![](Power_Automate.PNG)
 For this report, the current sales and previous year sales of these employees was sent to their official email address as seen in the button above.
-The report was curated and designed such that stkeholders and report users can drilldown , use filters and slicers to dice the data for certain date ranges and other certain criteria like;
+The report was curated and designed such that stakeholders and report users can drilldown , use filters and slicers to dice the data for certain date ranges and other certain criteria like;
 - Occupation Level
 - Educational Level
 - Marital Status

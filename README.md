@@ -45,8 +45,8 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 ## Sales Summary
 ![](Summary3.PNG)
 ### Features
-- The sales summary page captures the overview performance of the products this showed an increase in sales performance of the present year compared to the previous year
-- With £356.56M revenue comapred to £288.66M , there was a profit of £152.70 in the current year
+- The sales summary page captures the overview performance of the products, this showed an increase in sales performance of the present year compared to the previous year
+- With £356.56M revenue compared to £288.66M , there was a profit of £152.70 in the current year
 - Income group says persons with medium class income bought more products and contributed more in terms of revenue
 - Bikes Category outperformed other categories
 
@@ -55,16 +55,16 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 ![](Customer2.PNG)
 ### Features
 - Revenue generated from married customers was higher than single status customers
-- Homeowners contribued more to revenue than those withiut homes
-- Customers who work manual occupation contributted less as compared to professionals
+- Homeowners contribued more to revenue than those without homes
+- Customers who work manual occupation contributed less compared to professionals
 - Bikes Category outperformed other categories,bike accesories performed least
 - In terms of education level, the educated customers with bachelors degree generated more revenue
-- Variance shows the figures in terms of pthe yearly performance in comarorsion with projected / predicted outcome
+- Variance shows the figures in terms of the yearly performance in comparison with projected / predicted outcome
 
 ## Demographic Insights
 ![](Demographic.PNG)
 ### Features
-- The report here shows that customers from Europe contribued more to profit , followed closly by Africa
+- The report here shows that customers from Europe contribued more to profit, followed closly by Africa
 
 ## Product Insights
 ![](Product.PNG)

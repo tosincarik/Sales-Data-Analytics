@@ -43,45 +43,30 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 ---
 
 ## Sales Summary
-![](Summary3.PNG)
+![](Sales1.PNG)
 ### Features
 - The sales summary page captures the overview performance of the products, this showed an increase in sales performance of the present year compared to the previous year
-- With £356.56M revenue compared to £288.66M , there was a profit of £152.70 in the current year
+- With £348M revenue compared to £283M
 - Income group says persons with medium class income bought more products and contributed more in terms of revenue
 - Bikes Category outperformed other categories
+- The report here shows that customers from Europe contribued more to profit, followed closly by Africa
 
 
 ## Customer Insights
-![](Customer2.PNG)
+![](Sales2.PNG)
 ### Features
-- Revenue generated from married customers was higher than single status customers
-- Homeowners contribued more to revenue than those without homes
 - Customers who work manual occupation contributed less compared to professionals
-- Bikes Category outperformed other categories,bike accesories performed least
+- Road Bikes SubCategory outperformed other subcategories
 - In terms of education level, the educated customers with bachelors degree generated more revenue
 - Variance shows the figures in terms of the yearly performance in comparison with projected / predicted outcome
-
-## Demographic Insights
-![](Demographic.PNG)
-### Features
-- The report here shows that customers from Europe contribued more to profit, followed closly by Africa
+ 
 
 ## Product Insights
-![](Product.PNG)
+![](Sales3.PNG)
 ### Features
-- The visuals shows the comparison of current sales made, previous year sales, profit and the yearly change in percentile
+- The visual shows the drillthrough of granular comparison of profit,sales,average sales,variance by the year of sales
 - 2023 saw the worst in decline of sales performance followed by 2021 between year 2019 and 2023, the best performance increase was in the year 2019.
   
-## Overview Conclusion
-**To improve interaction with the sales representatives and give feedback about their performance, the report was integrated with **Power Automate** a Power BI feature.**
-This feature works by connecting selected KPIs with power apps connectors.
-
-![](Power_Automate.PNG)
-For this report, the current sales and previous year sales of these employees was sent to their official email address as seen in the button above.
-The report was curated and designed such that stakeholders and report users can drilldown , use filters and slicers to dice the data for certain date ranges and other certain criteria like;
-- Occupation Level
-- Educational Level
-- Marital Status
 
 
 

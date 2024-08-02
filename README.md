@@ -43,7 +43,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 ---
 
 ## Sales Summary
-![](Sales1.PNG)
+![](Sales1.png)
 ### Features
 - The sales summary page captures the overview performance of the products, this showed an increase in sales performance of the present year compared to the previous year
 - With £348M revenue compared to £283M
@@ -53,7 +53,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
 
 
 ## Customer Insights
-![](Sales2.PNG)
+![](Sales2.png)
 ### Features
 - Customers who work manual occupation contributed less compared to professionals
 - Road Bikes SubCategory outperformed other subcategories
@@ -62,7 +62,7 @@ You can view the report on Power BI Service [Click here](https://app.powerbi.com
  
 
 ## Product Insights
-![](Sales3.PNG)
+![](Sales3.png)
 ### Features
 - The visual shows the drillthrough of granular comparison of profit,sales,average sales,variance by the year of sales
 - 2023 saw the worst in decline of sales performance followed by 2021 between year 2019 and 2023, the best performance increase was in the year 2019.
